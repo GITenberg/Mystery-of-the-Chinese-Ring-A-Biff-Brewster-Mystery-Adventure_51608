@@ -1,0 +1,25 @@
+_repo: Mystery-of-the-Chinese-Ring-A-Biff-Brewster-Mystery-Adventure_51608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Andy
+    gutenberg_agent_id: '46459'
+    url: http://www.gutenberg.org/2009/agents/46459
+    wikipedia: https://en.wikipedia.org/wiki/Andy_Adams_(pseudonym)
+description: ''
+gutenberg_issued: '2016-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Biff Brewster mystery adventure, 2
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'China -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Mystery of the Chinese Ring: A Biff Brewster Mystery Adventure'
+url: http://www.gutenberg.org/ebooks/51608
